@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+
+# Airflow
+logs/
+
+# dbt
+target/
+dbt_packages/
+
+# macOS
+.DS_Store
+
+.user.yml
